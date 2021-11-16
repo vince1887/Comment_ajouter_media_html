@@ -17,10 +17,10 @@
 !!inserer example avec vs code!!
 
 #### Il existe d'autre attributs pour la balise < img/ >
-> * **alt**
-> * **title**
-> * **height**
-> * **width**
+* **alt**
+* **title**
+* **height**
+* **width**
 
 ## Insertion d'un vidéo
 
