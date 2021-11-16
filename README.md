@@ -25,7 +25,7 @@
 1. Être lu par un lecteur d'écran pour les personnes avec des un problème de vision.
 2. Être indexer par les moteurs de recherche.
 
- La balise avec son attribut `alt` va ressembler a ceci.
+ La balise avec son attribut `alt` va ressembler à ceci.
 `<img src=¨chemin/d-acces/mon_image.jpeg¨ alt=¨photo de chat¨ / >`
 
 ### L'attribut `title`
@@ -33,7 +33,7 @@
 
 !!video survol title image!!
 
-#### La balise avec son attribut `title` `<img src=¨chemin/d-acces/mon_image.jpeg¨ title=¨photo de chat¨ / >`
+ La balise avec son attribut `title` va ressembler à ceci. `<img src=¨chemin/d-acces/mon_image.jpeg¨ title=¨photo de chat¨ / >`
 
 ### Les attributs `height` et `width` vont spécifier la grandeur de l'image.
 
