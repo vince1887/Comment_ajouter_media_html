@@ -25,7 +25,8 @@
 1. Être lu par un lecteur d'écran pour les personnes avec des un problème de vision.
 2. Être indexer par les moteurs de recherche.
 
-> ### La balise avec son attribut `alt` va ressembler a ceci.
+#### La balise avec son attribut `alt` va ressembler a ceci.
+` <img src=¨chemin/d-acces/mon_image.jpeg¨ alt=¨photo de chat¨ / >
 
 ## Insertion d'un vidéo
 
