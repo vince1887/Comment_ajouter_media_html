@@ -26,7 +26,7 @@
 2. Être indexer par les moteurs de recherche.
 
 #### La balise avec son attribut `alt` va ressembler a ceci.
-` <img src=¨chemin/d-acces/mon_image.jpeg¨ alt=¨photo de chat¨ / >
+`<img src=¨chemin/d-acces/mon_image.jpeg¨ alt=¨photo de chat¨ / >`
 
 ## Insertion d'un vidéo
 
