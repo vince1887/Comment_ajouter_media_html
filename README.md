@@ -3,8 +3,8 @@
 
 >Il existe plusieurs type de balise et nous allons nous interresser à trois balise en particulier dans le but d'inserer des images, vidéos et bandes sonores à une page web.
 * __< img >__
-* < video >
-* < audio >
+* __< video >__
+* __< audio >__
 
 ## Insertion d'une image/gif
 
