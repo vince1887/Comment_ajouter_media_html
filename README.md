@@ -12,7 +12,7 @@
 > Cette balise peut contenir plusieurs attributs, mais **src** est la seul qui est essentiel.
 > * Elle va servire à donner le chemin d'accès pour retrouver l'image qui sera inserée à la page.
 ### La balise devrait resembler a ceci avec son attribut essentiel.
-#### < img src=¨example/de/chemin-d-acces/image_fictive.jpg¨ / >
+
   ![example avec attribut src](media/image_src.PNG)
 
 
