@@ -14,7 +14,7 @@
 ### La balise devrait resembler a ceci avec son attribut essentiel.
 #### < img src=¨example/de/chemin-d-acces/image_fictive.jpg¨ / >
 
-!!inserer example avec vs code!!
+![example balise avec attribut src](media/)
 
 ### Il existe d'autre attributs pour la balise < img/ >
 * **alt**
