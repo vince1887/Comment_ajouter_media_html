@@ -24,7 +24,9 @@
 ### L'attribut `alt` signifie text-alternatif. Il sert a décrire la photo et a aussi deux fonctions principales importantes.
 1. Être lu par un lecteur d'écran pour les personnes avec des un problème de vision.
 2. Être indexer par les moteurs de recherche.
-3. 
+
+### La balise avec son attribut `alt` va ressembler a ceci.
+
 ## Insertion d'un vidéo
 
 ## Insertion d'une bande sonore
