@@ -13,6 +13,11 @@
 > * Elle va servire à donner le chemin d'accès pour retrouver l'image qui sera inserée à la page.
 
 #### < img src=¨example/de/chemin-d-acces/image_fictive.jpg¨ / >
+#### Il existe d'autre attributs pour la balise < img/ >
+* **alt**
+* **title**
+* **height**
+* **width**
 
 ## Insertion d'un vidéo
 
