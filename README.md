@@ -37,8 +37,8 @@
 
 ### Les attributs `height` et `width` vont spécifier la grandeur de l'image.
  C'est deux balises vont permettre de choisir la grandeur de l'image. Leur utilisation est simple, il suffit juste d'écrire les dimensions voulus (en px, %, em, rem...)
-
-
+> !!example photo photo redimensionner!!
+ La balise avec son attribut `title` va ressembler à ceci. `<img src=¨chemin/d-acces/mon_image.jpeg¨ title=¨photo de chat¨ / >`
 ## Insertion d'un vidéo
 
 ## Insertion d'une bande sonore
