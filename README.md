@@ -9,7 +9,7 @@
 ## Insertion d'une image/gif
 #### La balise < img/ > est auto-fermante (self-closing tag)
 
-> Cette balise peut contenir plusieurs attributs, mais ^^src^^ est la seul qui est essentiel.
+> Cette balise peut contenir plusieurs attributs, mais **src** est la seul qui est essentiel.
 > * Elle va servire à donner le chemin d'accès pour retrouver l'image qui sera inserée à la page.
 
 ## Insertion d'un vidéo
