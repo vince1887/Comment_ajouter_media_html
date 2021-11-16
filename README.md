@@ -15,12 +15,13 @@
 
   ![example avec attribut src](media/image_src.PNG)
 
-
 ### Il existe d'autre attributs pour la balise `< img/ >`
 * `alt`
 * `title`
 * `height`
 * `width`
+### L'attribut `alt` signifie text-alternatif.Il sert a décrire la photo et a aussi deux fonctions principales importantes.
+1. Être lu par un lecteur d'écran pour les personne avec des un problème de vision.
 
 ## Insertion d'un vidéo
 
