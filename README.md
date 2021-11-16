@@ -39,7 +39,7 @@
  C'est deux balises vont permettre de choisir la grandeur de l'image. Leur utilisation est simple, il suffit juste d'écrire les dimensions voulus (en px, %, em, rem...)
 > !!example photo photo redimensionner!!
  
- La balise avec son attribut `title` va ressembler à ceci. `<img src=¨chemin/d-acces/mon_image.jpeg¨ title=¨photo de chat¨ / >`
+ La balise avec son attribut `height` et `width` va ressembler à ceci. `<img src=¨chemin/d-acces/mon_image.jpeg¨ height=¨200px¨ width=¨400px¨ / >`
 ## Insertion d'un vidéo
 
 ## Insertion d'une bande sonore
