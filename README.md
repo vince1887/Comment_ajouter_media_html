@@ -28,6 +28,17 @@
 #### La balise avec son attribut `alt` va ressembler a ceci.
 `<img src=¨chemin/d-acces/mon_image.jpeg¨ alt=¨photo de chat¨ / >`
 
+### L'attribut `title`
+> `title` sert a créer une bulle d'aide qui va apparraitre au survol de l'image
+
+!!video survol title image!!
+
+#### La balise avec son attribut `title` s'utilise ainsi.
+`<img src=¨chemin/d-acces/mon_image.jpeg¨ title=¨photo de chat¨ / >`
+
+### Les attributs `height` et `width` vont spécifier la grandeur de l'image.
+
+
 ## Insertion d'un vidéo
 
 ## Insertion d'une bande sonore
