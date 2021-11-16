@@ -12,7 +12,7 @@
 > Cette balise peut contenir plusieurs attributs, mais **src** est la seul qui est essentiel.
 > * Elle va servire à donner le chemin d'accès pour retrouver l'image qui sera inserée à la page.
 
-< img src=¨chemin/d'accès.jpg¨ / >
+< img src=¨example/de/chemin-d-acces/image_fictive.jpg¨ / >
 
 ## Insertion d'un vidéo
 
