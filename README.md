@@ -7,7 +7,7 @@
 * __< audio >__
 
 ## Insertion d'une image/gif
-#### La balise < img/ > est auto-fermante (self-closing tag)
+### La balise < img/ > est auto-fermante (self-closing tag)
 
 > Cette balise peut contenir plusieurs attributs, mais **src** est la seul qui est essentiel.
 > * Elle va servire à donner le chemin d'accès pour retrouver l'image qui sera inserée à la page.
@@ -16,7 +16,7 @@
 
 !!inserer example avec vs code!!
 
-#### Il existe d'autre attributs pour la balise < img/ >
+### Il existe d'autre attributs pour la balise < img/ >
 * **alt**
 * **title**
 * **height**
