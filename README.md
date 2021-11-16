@@ -29,7 +29,7 @@
 `<img src=¨chemin/d-acces/mon_image.jpeg¨ alt=¨photo de chat¨ / >`
 
 ### L'attribut `title`
-> `title` sert a créer une bulle d'aide qui va apparraitre au survol de l'image
+ `title` sert a créer une bulle d'aide qui va apparraitre au survol de l'image
 
 !!video survol title image!!
 
