@@ -1,2 +1,9 @@
-# Comment_ajouter_media_html
-tutoriel pour ajouter different médias dans une page html
+# Insertion de different médias en html
+tutoriel pour ajouter des imgaes, vidéos et bandes sonores en html
+
+##Insertion d'une image/gif
+
+##Insertion d'un vidéo
+
+##Insertion d'une bande sonore
+
