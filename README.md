@@ -33,8 +33,7 @@
 
 !!video survol title image!!
 
-#### La balise avec son attribut `title` s'utilise ainsi.
-`<img src=¨chemin/d-acces/mon_image.jpeg¨ title=¨photo de chat¨ / >`
+#### La balise avec son attribut `title` `<img src=¨chemin/d-acces/mon_image.jpeg¨ title=¨photo de chat¨ / >`
 
 ### Les attributs `height` et `width` vont spécifier la grandeur de l'image.
 
