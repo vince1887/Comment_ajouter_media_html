@@ -21,8 +21,8 @@
 * `height`
 * `width`
 ### L'attribut `alt` signifie text-alternatif.Il sert a décrire la photo et a aussi deux fonctions principales importantes.
-1. Être lu par un lecteur d'écran pour les personne avec des un problème de vision.
-
+1. Être lu par un lecteur d'écran pour les personnes avec des un problème de vision.
+2. Être indexer par les moteurs de recherche.
 ## Insertion d'un vidéo
 
 ## Insertion d'une bande sonore
