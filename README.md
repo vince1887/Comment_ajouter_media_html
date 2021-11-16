@@ -7,7 +7,7 @@
 * __< audio >__
 
 ## Insertion d'une image/gif
-La balise < img/ > est auto-fermante (self-closing tag)
+>La balise < img/ > est auto-fermante (self-closing tag)
 > Cette balise peut contenir plusieurs attributs, mais **src** est la seul qui est essentiel.
 
 ## Insertion d'un vidéo
