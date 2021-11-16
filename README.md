@@ -7,7 +7,7 @@
 * __< audio >__
 
 ## Insertion d'une image/gif
-La balise image
+La balise image est auto-fermante (self-closing tag), contrairement à d'autre balise qui sont en paire pour indiquer le début et la fin.
 
 ## Insertion d'un vidéo
 
