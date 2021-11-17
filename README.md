@@ -28,8 +28,8 @@
  La balise avec son attribut `alt` va ressembler à ceci.
 `<img src=¨chemin/d-acces/mon_image.jpeg¨ alt=¨photo de chat¨ / >`
 
-
  ![example avec attribut src](media/lien_briser_alt.JPG)
+ 
 ### L'attribut `title`
  `title` sert a créer une bulle d'aide qui va apparraitre au survol de l'image
 
