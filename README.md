@@ -22,8 +22,8 @@
 * `width`
 
 ### L'attribut `alt` signifie text-alternatif en cas ou l'image n'est pas affiché. Il sert a décrire la photo et a aussi deux fonctions principales importantes.
-1. Être lu par un lecteur d'écran pour les personnes avec des un problème de vision.
-2. Être indexer par les moteurs de recherche.
+> 1. Être lu par un lecteur d'écran pour les personnes avec des un problème de vision.
+> 2. Être indexer par les moteurs de recherche.
 
  La balise avec son attribut `alt` va ressembler à ceci.
 `<img src=¨chemin/d-acces/mon_image.jpeg¨ alt=¨photo de chat¨ / >`
