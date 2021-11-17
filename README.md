@@ -39,7 +39,9 @@
 
 ### Les attributs `height` et `width` vont spécifier la grandeur de l'image.
 > C'est deux balises vont permettre de choisir la grandeur de l'image. Leur utilisation est simple, il suffit juste d'écrire les dimensions voulus (en px, %, em, rem...)
+
 La balise avec son attribut `height` et `width` va ressembler à ceci. `<img src=¨chemin/d-acces/mon_image.jpeg¨ height=¨200px¨width=¨400px¨/>`
+
 ![example avec attribut height & width](media/h_w_attribut.JPG)
 
  
