@@ -52,12 +52,12 @@ La balise avec son attribut `height` et `width` va ressembler à ceci. `<img src
 
 > L'attribut `Controls` va venir ajouter les commandes pour démarer ou arrêter la video.
 
-![example video avec control](media/video_controls.jpg)
+![example video avec control](media/video_controls.JPG)
 
 ### Ensuite on doit ajouter la source du vidéo.
 > Elle va spécifier le chemin d'accès au vidéo et son attribut `type` va indiquer au navigateur qu'elle format vidéo s'agit-il.
 
 `< source src="le/chemin/accès/video.mp4" type="video/mp4">`
 
-![example video avec control](media/video_controls.jpg)
+![example video avec source](media/video_controls.JPG)
 
