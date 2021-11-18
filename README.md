@@ -1,7 +1,7 @@
-# Insertion de different médias en html
->Premièrement, le HTML est un language de balisage. Il sert à la mise-en-forme du contenu d'une page web en utilisant des balises semantics pour donner un sense aux differents composants de la page. Il existe aussi des balises non-semantic, mais dans le contexte ici ne nous sera pas utile.
+# Insertion de différent médias en html
+>Premièrement, le HTML est un language de balisage. Il sert à la mise en forme du contenu d'une page web en utilisant des balises semantics pour donner un sens aux différents composants de la page. Il existe aussi des balises non-semantic, mais dans le contexte ici ne nous sera pas utile.
 
->Il existe plusieurs type de balise et nous allons nous interresser à trois balise en particulier dans le but d'inserer des images, vidéos et bandes sonores à une page web.
+>Il existe plusieurs types de balise et nous allons nous interrésser à trois balises en particulier dans le but d'inserer des images, vidéos et bandes sonores à une page web.
 * `< img >`
 * `< video >`
 * `< audio >`
@@ -9,8 +9,8 @@
 ## Insertion d'une image/gif
 ### La balise < img > est auto-fermante (self-closing tag)
 
-#### Cette balise peut contenir plusieurs attributs, mais `src` est la seul qui est essentiel.
-> Elle va servire à donner le chemin d'accès pour retrouver l'image qui sera inserée à la page.
+#### Cette balise peut contenir plusieurs attributs, mais `src` est la seule qui est essentielle.
+> Elle va servir à donner le chemin d'accès pour retrouver l'image qui sera insérée à la page.
 ### La balise devrait resembler a ceci avec son attribut `src` .
 
   ![example avec attribut src](media/image_src.PNG)
@@ -31,14 +31,14 @@
  ![example avec attribut alt](media/lien_briser_alt2.JPG)
  
 ### L'attribut `title`
- >`title` sert a créer une bulle d'aide qui va apparraitre au survol de l'image
+ >`title` sert à créer une bulle d'aide qui va apparaitre au survol de l'image
 
  La balise avec son attribut `title` va ressembler à ceci. `<img src=¨chemin/d-acces/mon_image.jpeg¨ title=¨photo de chat¨  >`
  
  ![example avec titre hover](media/title_attrib.gif)
 
 ### Les attributs `height` et `width` vont spécifier la grandeur de l'image.
-> C'est deux balises vont permettre de choisir la grandeur de l'image. Leur utilisation est simple, il suffit juste d'écrire les dimensions voulus (en px, %, em, rem...)
+> Ces deux balises vont permettre de choisir la grandeur de l'image. Leur utilisation est simple, il suffit juste d'écrire les dimensions voulues (en px, %, em, rem...)
 
 La balise avec son attribut `height` et `width` va ressembler à ceci. `<img src=¨chemin/d-acces/mon_image.jpeg¨ height=¨200px¨width=¨400px¨>`
 
