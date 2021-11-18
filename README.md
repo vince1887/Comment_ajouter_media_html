@@ -1,7 +1,7 @@
 # Insertion de différent médias en html
 >Premièrement, le HTML est un language de balisage. Il sert à la mise en forme du contenu d'une page web en utilisant des balises semantics pour donner un sens aux différents composants de la page. Il existe aussi des balises non-semantic, mais dans le contexte ici ne nous sera pas utile.
 
->Il existe plusieurs types de balise et nous allons nous interrésser à trois balises en particulier dans le but d'inserer des images, vidéos et bandes sonores à une page web.
+>Il existe plusieurs types de balise et nous allons nous interrésser à trois balises en particulier dans le but d'inserer des images, vidéos et bandes sonores à une page web. Nous allons aussi nous intéresser à quelques un de leurs attributs.
 * `< img >`
 * `< video >`
 * `< audio >`
