@@ -4,7 +4,6 @@
 >Il existe plusieurs types de balise et nous allons nous interrésser à trois balises en particulier dans le but d'inserer des images, vidéos et bandes sonores à une page web. Nous allons aussi nous intéresser à quelques un de leurs attributs.
 * `< img >`
 * `< video >`
-* `< audio >`
 
 ## Insertion d'une image/gif
 ### La balise < img > est auto-fermante (self-closing tag)
