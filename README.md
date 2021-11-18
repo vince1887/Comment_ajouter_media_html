@@ -51,7 +51,7 @@ La balise avec son attribut `height` et `width` va ressembler à ceci. `<img src
 > Les attributs `height` et `width`, vont servir à spécifier la grandeur à laquelle le vidéo sera présenté sur la page web.
 
 > L'attribut `Controls` va venir ajouter les commandes pour démarer ou arrêter la video.
-![example video avec control](media/title_attrib.gif)
+![example video avec control](media/video_controls.JPG)
 ### Dans la balise < source > à l'intérieur de la balise < video > on doit inserer l'attribut `src` pour spécifier le chemin d'accès à la vidéo et spécifier le format de vidéo avec l'attribut `type`
 
 
