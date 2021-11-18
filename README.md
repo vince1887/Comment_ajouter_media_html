@@ -53,8 +53,4 @@ La balise avec son attribut `height` et `width` va ressembler à ceci. `<img src
 > L'attribut `Controls` va venir ajouter les commandes pour démarer ou arrêter la video.
 
 ![example video avec control](media/video_controls.JPG)
-### Dans la balise < source > à l'intérieur de la balise < video > on doit inserer l'attribut `src` pour spécifier le chemin d'accès à la vidéo et spécifier le format de vidéo avec l'attribut `type`
-
-
-## Insertion d'une bande sonore
 
