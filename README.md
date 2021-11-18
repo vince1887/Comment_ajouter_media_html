@@ -59,5 +59,5 @@ La balise avec son attribut `height` et `width` va ressembler à ceci. `<img src
 
 `< source src="le/chemin/accès/video.mp4" type="video/mp4">`
 
-![example video avec source](media/video_controls.JPG)
+![example video avec source](media/video_source.JPG)
 
