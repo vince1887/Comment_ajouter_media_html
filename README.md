@@ -12,10 +12,7 @@
 > Elle va servir à donner le chemin d'accès pour retrouver l'image qui sera insérée à la page.
 ### La balise devrait resembler a ceci avec son attribut `src` .
 
-```html
-<img src=¨https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FgzgC39njY5vd0R3ZzvH7b0A_cEg%3D%2F0x107%3A2039x1254%2F1600x900%2Fcdn.vox-cdn.com%2Fuploa¨ alt=¨image¨>
 
-```
   ![example avec attribut src](media/image_src.PNG)
 
 ### Il existe d'autre attributs pour la balise `< img >`
