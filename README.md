@@ -13,7 +13,7 @@
 ### La balise devrait resembler a ceci avec son attribut `src` .
 
 ```html
-<img src=¨https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FgzgC39njY5vd0R3ZzvH7b0A_cEg%3D%2F0x107%3A2039x1254%2F1600x900%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50949797%2Fgoogle-allo.0.jpg&imgrefurl=https%3A%2F%2Fwww.theverge.com%2F2016%2F9%2F21%2F12996170%2Fgoogle-allo-review-assistant-messaging-chat-app&tbnid=mGQuUBM5aPTM-M&vet=12ahUKEwiCg5b-_rP0AhW2gnIEHXeuCG0QMygBegQIARAt..i&docid=H94qPotixEF7wM&w=1600&h=900&itg=1&q=allo0&ved=2ahUKEwiCg5b-_rP0AhW2gnIEHXeuCG0QMygBegQIARAt¨ alt=¨image¨>
+<img src=¨https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FgzgC39njY5vd0R3ZzvH7b0A_cEg%3D%2F0x107%3A2039x1254%2F1600x900%2Fcdn.vox-cdn.com%2Fuploa¨ alt=¨image¨>
 
 ```
   ![example avec attribut src](media/image_src.PNG)
